@@ -1,2 +1,3 @@
 # meu-primeiro-codigo
 meu primeiro código de programação em python, depois de olá mundo, é claro...
+<img width="797" height="199" alt="codiguin" src="https://github.com/user-attachments/assets/16980b5d-48b4-44b3-b87b-fa2a5a6a44be" />
